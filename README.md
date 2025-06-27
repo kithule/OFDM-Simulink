@@ -1,5 +1,5 @@
 # OFDM simulation using Simulink
-This project was carried out as part of the TC department program, INSA Lyon. The goal of the project is to design an OFDM transmitter and a receiver using Simulink, with the use of pilot symbols, cyclic prefix and a multipath channel.
+This project was carried out as part of the program at INSA Lyon. The goal of the project is to design an OFDM transmitter and a receiver using Simulink, with the use of pilot symbols, cyclic prefix and a multipath channel.
 
 Constraints:
 1, Bandwidth: B = 20 MHz;<br />
